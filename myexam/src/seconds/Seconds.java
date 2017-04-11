@@ -7,13 +7,13 @@ public class Seconds {
 
   public static void main(String[] args) {
 
-    List<Integer> newList = new ArrayList();
+    List<Integer> originalList = new ArrayList();
     for (int i=0; i < 10; i++) {
-      newList.add(i+1);
+      originalList.add(i+1);
     }
 
-    System.out.println("Original list: " + newList);
-    System.out.println("Every second member of original list: " + getEverySecond(newList));
+    System.out.println("Original list: " + originalList);
+    System.out.println("Every second member of original list: " + getEverySecond(originalList));
   }
 
   public static List<Integer> getEverySecond(List<Integer> inputList) {
