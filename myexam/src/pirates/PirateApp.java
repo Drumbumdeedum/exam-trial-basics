@@ -26,7 +26,7 @@ class PirateApp {
     List<String> namesOfPirates = new ArrayList();
 
     for (Pirate name : pirates) {
-      if (name.checkPirate()==true) {
+      if (name.checkPirate() == true) {
         namesOfPirates.add(name.getName());
       }
     }
