@@ -11,7 +11,7 @@ public class Pirate {
     this.gold = gold;
   }
 
-  public boolean filterPirates() {
+  public boolean checkPirate() {
     if (this.hasWoodenLeg == true && this.gold > 15) {
       return true;
     } else {
