@@ -32,12 +32,14 @@ The application is accepted if:
 ## 5. Question time! (~15 mins) [2p]
 
 ### How can you generate a random number? [2p]
+If you want to get a random number between 30 and 150 you have to use the current formula:
+
 You can generate a random number using the Math.random() function, which has many different uses. Whichever way you decide to use it, it is probably advised to store your random number in an int, float or double type variable. If you want to get a random number between 0 and 100, use the function as follows:
 
-int randomNumber = (int)(Math.random()*100)
+int randomNumber = (int)(Math.random()\*100)
 
 If you want to get a random number between 30 and 150 you have to use the current formula:
 
-int randomNumber = (int)(Math.random()*120+30)
+int randomNumber = (int)(Math.random()\*120+30)
 
 And these are just 2 ways you can use this function, the possibilities are endless! :)
