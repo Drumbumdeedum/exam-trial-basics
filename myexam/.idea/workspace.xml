@@ -39,8 +39,8 @@
       <file leaf-file-name="CountAs.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/countas/CountAs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="165">
+              <caret line="11" column="49" lean-forward="false" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -48,17 +48,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pirates/MainApp.java">
+      <file leaf-file-name="PirateApp.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pirates/PirateApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="345">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pirate.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Pirate.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pirates/Pirate.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
@@ -74,8 +74,8 @@
       <file leaf-file-name="Seconds.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/seconds/Seconds.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="195">
+              <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,12 +102,13 @@
       <list>
         <option value="$PROJECT_DIR$/src/box/Cuboid.java" />
         <option value="$PROJECT_DIR$/src/box/BoxApp.java" />
-        <option value="$PROJECT_DIR$/src/countas/CountAs.java" />
         <option value="$PROJECT_DIR$/src/seconds/Seconds.java" />
         <option value="$PROJECT_DIR$/src/pirates/PirateCounter.java" />
         <option value="$PROJECT_DIR$/src/pirates/Pirate.java" />
         <option value="$PROJECT_DIR$/src/pirates/PirateCounterApp.java" />
         <option value="$PROJECT_DIR$/src/pirates/MainApp.java" />
+        <option value="$PROJECT_DIR$/src/countas/CountAs.java" />
+        <option value="$PROJECT_DIR$/src/pirates/PirateApp.java" />
       </list>
     </option>
   </component>
@@ -118,8 +119,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="143" />
-    <option name="y" value="198" />
+    <option name="x" value="139" />
+    <option name="y" value="157" />
     <option name="width" value="1187" />
     <option name="height" value="681" />
   </component>
@@ -252,7 +253,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js.eslint.eslintPackage" value="" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CountAs">
     <configuration default="false" name="BoxApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -293,14 +294,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="PirateApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="pirates.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="pirates.MainApp" />
+      <option name="MAIN_CLASS_NAME" value="pirates.PirateApp" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -709,15 +710,15 @@
     <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.BoxApp" />
       <item index="1" class="java.lang.String" itemvalue="Application.CountAs" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MainApp" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PirateApp" />
       <item index="3" class="java.lang.String" itemvalue="Application.Seconds" />
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.MainApp" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CountAs" />
         <item index="1" class="java.lang.String" itemvalue="Application.BoxApp" />
         <item index="2" class="java.lang.String" itemvalue="Application.Seconds" />
-        <item index="3" class="java.lang.String" itemvalue="Application.CountAs" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PirateApp" />
       </list>
     </recent_temporary>
   </component>
@@ -731,15 +732,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1491912978910</updated>
-      <workItem from="1491912980568" duration="4643000" />
+      <workItem from="1491912980568" duration="4974000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4643000" />
+    <option name="totallyTimeSpent" value="4974000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="143" y="198" width="1187" height="681" extended-state="0" />
+    <frame x="139" y="157" width="1187" height="681" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -806,10 +807,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/pirates/Pirate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+          <folding>
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/seconds/Seconds.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="195">
+          <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -834,30 +846,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/countas/CountAs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="165">
+          <caret line="11" column="49" lean-forward="false" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pirates/MainApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pirates/Pirate.java">
+    <entry file="file://$PROJECT_DIR$/src/pirates/PirateApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="23" column="3" lean-forward="false" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-          <folding>
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-          </folding>
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

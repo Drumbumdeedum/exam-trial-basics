@@ -2,7 +2,7 @@ package pirates;
 
 import java.util.*;
 
-class MainApp {
+class PirateApp {
 
   public static void main(String... args){
     ArrayList<Pirate> pirates = new ArrayList<>();

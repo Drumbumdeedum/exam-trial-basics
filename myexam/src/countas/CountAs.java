@@ -9,8 +9,8 @@ public class CountAs {
 
   public static void main(String[] args) {
 
-    System.out.println("Occurences of \"a\" in afile.txt: " + countA("afile.txt"));
-    System.out.println("Occurences of \"a\" in not-a-file.txt: " + countA("not-a-file.txt"));
+    System.out.println("Occurrences of \"a\" in afile.txt: " + countA("afile.txt"));
+    System.out.println("Occurrences of \"a\" in not-a-file.txt: " + countA("not-a-file.txt"));
   }
 
   public static int countA(String inputFilename) {
